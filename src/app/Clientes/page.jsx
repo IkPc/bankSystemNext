@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useState } from 'react';
 import ListaClientes from '../components/ListaClientes';
 import FormCliente from '../components/FormCliente';
